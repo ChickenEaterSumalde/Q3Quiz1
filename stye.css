@@ -1,0 +1,31 @@
+	img {
+		width: 250px;
+
+	}
+	section {
+		display:flex;
+	}
+
+	body {
+		background-size: cover;
+		background-image: url("plain black.jpg");
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		color: white;
+	}
+	
+	.footer {
+		background-color: #7ab8d6;
+		color: #ffffff;
+		padding: 8px solid;
+		justify-content: center;
+		padding: .5px;
+		padding-left: 18px;
+	}
+
+	.main {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		text-align: center;
+	}
